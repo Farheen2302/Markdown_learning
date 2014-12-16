@@ -1,0 +1,6 @@
+#FARHEEN EDITING
+###THIS IS MARKDOWN PRACTICE
+_LAST TWO DAYS_
+1. GITHUB(forking,clononig,pull,add,commit,push)
+2. BLOGGING
+3. MARK DOWN
